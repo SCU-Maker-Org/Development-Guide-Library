@@ -4,13 +4,9 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://example.com/zh" target="_blank">中文</a> 🇨🇳 &nbsp;
-  <a href="https://example.com/en" target="_blank">English</a> 🇺🇸 &nbsp;
-  <a href="https://example.com/fr" target="_blank">Français</a> 🇫🇷 &nbsp;
-  <a href="https://example.com/de" target="_blank">Deutsch</a> 🇩🇪 &nbsp;
-  <a href="https://example.com/ja" target="_blank">日本語</a> 🇯🇵 &nbsp;
-  <a href="https://example.com/ko" target="_blank">한국어</a> 🇰🇷 &nbsp;
-  <a href="https://example.com/ru" target="_blank">Русский</a> 🇷🇺 &nbsp;
+  <a href="https://github.com/SCU-Maker-Org/Development-Guide-Library/blob/main/READMESupply/Development-Guide-Library-README/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.md" target="_blank">中文</a> 🇨🇳 &nbsp;
+  <a href="https://github.com/SCU-Maker-Org/Development-Guide-Library/blob/main/READMESupply/Development-Guide-Library-README/English.md" target="_blank">English</a> 🇺🇸 &nbsp;
+  <a href="https://github.com/SCU-Maker-Org/Development-Guide-Library/blob/main/READMESupply/Development-Guide-Library-README/Fran%C3%A7ais.md" target="_blank">Français</a> 🇫🇷 &nbsp;
 </div>
 <br>
 <br>
