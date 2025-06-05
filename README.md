@@ -6,13 +6,10 @@
 <div align="center">
   <a href="https://example.com/zh" target="_blank">中文</a> 🇨🇳 &nbsp;
   <a href="https://example.com/en" target="_blank">English</a> 🇺🇸 &nbsp;
-  <a href="https://example.com/es" target="_blank">Español</a> 🇪🇸 &nbsp;
   <a href="https://example.com/fr" target="_blank">Français</a> 🇫🇷 &nbsp;
   <a href="https://example.com/de" target="_blank">Deutsch</a> 🇩🇪 &nbsp;
   <a href="https://example.com/ja" target="_blank">日本語</a> 🇯🇵 &nbsp;
   <a href="https://example.com/ko" target="_blank">한국어</a> 🇰🇷 &nbsp;
-  <a href="https://example.com/pt" target="_blank">Português</a> 🇵🇹 &nbsp;
-  <a href="https://example.com/it" target="_blank">Italiano</a> 🇮🇹 &nbsp;
   <a href="https://example.com/ru" target="_blank">Русский</a> 🇷🇺 &nbsp;
 </div>
 <br>
