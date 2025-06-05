@@ -1,5 +1,8 @@
 # SCU Maker Org's Development Guide Libarary🌟
 
+![Static Badge](https://img.shields.io/badge/Creative_Commons_Attribution_NonCommercial_4.0_International-(CC_BY_NC_4.0)-green)
+
+
 欢迎来到 SCU Maker Org 开发指南库！  😍<br>
 
 在开发过程中，你是否遇到过以下问题呢？
