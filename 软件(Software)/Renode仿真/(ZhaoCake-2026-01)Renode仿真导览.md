@@ -3,6 +3,7 @@
 Renode 是面向嵌入式与异构硬件的开源仿真平台，可在无实物硬件的情况下进行固件开发、系统级调试与自动化测试。
 
 ## 工业界运用
+
 虽然在国内大众视野中 Renode 相对小众，但在全球嵌入式与半导体顶尖领域，它正逐渐成为标准工具栈的一部分，掌握它意味着接触最前沿的开发模式：
 
 - **Google (TensorFlow Lite / Zephyr)**：Google 使用 Renode 进行 TensorFlow Lite for Microcontrollers (TFLM) 的持续集成测试，确保机器学习模型在不同嵌入式平台上的兼容性。同时，Zephyr RTOS 项目官方 CI 也大量使用 Renode 进行多架构（ARM, RISC-V, Xtensa等）的每日构建测试。
@@ -15,16 +16,22 @@ Renode 是面向嵌入式与异构硬件的开源仿真平台，可在无实物�
 > 现在教学上依然常用的Proteus则是玩具。
 
 ## 对个人的帮助
+
 - **降低入门成本**：无需实体硬件即可学习与验证。
 - **提升调试效率**：可重复的仿真环境便于问题定位。
 - **支持自动化**：脚本化测试帮助构建个人级持续验证流程。
 
 ## 文档计划
 
-1. 基本的Renode使用
-2. Renode仿真SoC中的裸机开发
-3. Renode仿真SoC中的RTOS开发
-4. Renode仿真SoC中的神经网络模型部署
+- [x] [基本的Renode使用](./(ZhaoCake-2026-02)Renode是怎样工作的.md)
+- [ ] Renode仿真SoC中的裸机开发
+- [ ] Renode仿真SoC中的RTOS开发
+- [ ] Renode仿真SoC中的神经网络模型部署
 
 完成这四个基本的文档作为例子之后我将会提出 doc request issue 来请求更多文档。
 
+## 参考实验
+
+实验仓库尚在开发中
+
+[learning_renode](https://github.com/ZhaoCake/learning_renode)
